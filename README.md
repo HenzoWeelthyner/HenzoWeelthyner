@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/henzo_♡-black" />
+  <img src="https://img.shields.io/badge/henzo_⽮-black" />
 </div>
       
 <br>
